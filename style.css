@@ -1,0 +1,44 @@
+body {
+    /* border: solid blue; */
+    background-color: black;
+}
+
+.product {
+    border: solid black;
+    height:100%;
+    width: 50%;
+    margin: 0 auto;
+    /* background: red;     */
+}
+
+h1 {
+    margin: 20px 0 10px 30px!important;
+    font-weight: bolder;
+}
+
+.reviews{
+    margin-left: 25px !important;
+}
+
+.rev{
+    color: #6e6e6e;
+    padding-left: 30px!important;   
+}
+
+.stars {
+    padding-left: 15px!important;
+}
+
+.phead{
+    color: red;
+    font-size: 20px;
+}
+
+.pdhead{
+    color: #6e6e6e;
+    margin-left: 50px !important;
+}
+
+.pricing{
+    margin-left: 30px !important;
+}
